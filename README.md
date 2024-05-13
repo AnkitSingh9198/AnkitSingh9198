@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AnkitSingh
 - 👀 I’m interested in front end webdevlopment
-- 🌱 I’m currently learning HTML CSS JavaScript React
 - 💞️ I’m looking to collaborate on web projects
 - 📫 You can reach me out on ankitsingh110198@gmail.com
 
