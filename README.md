@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @AnkitSingh
-- 👀 I’m interested in front end webdevlopment
-- 💞️ I’m looking to collaborate on web projects
-- 📫 You can reach me out on ankitsingh110198@gmail.com
+### Hi, I'm Ankit 👋
 
-<!---
-AnkitSingh9198/AnkitSingh9198 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full stack developer in Noida, India, with ~2 years of shipping production web and mobile apps.
+Currently at **LYB Technology**, working end to end from MongoDB schema to React UI to deployment.
+
+**What I've built**
+- **[Dr Dermat](https://drdermat.com/)**: WebRTC chat, audio and video consultations, a clinic portal, e-commerce, and React Native apps
+- **[Zanifest](https://zanifestinsurance.com/)**: insurance aggregator that brings Zuno, SBI General, ICICI Lombard and GoDigit into one quote flow
+- **[RS Galaxy](https://rsgalaxyhotels.in/)**: hotel website with a booking system and admin dashboard
+- **[Homwisor](https://homwisor.com/)**: residential and commercial real estate investment platform, Gurgaon to Dubai
+
+**Stack:** React.js · React Native · TypeScript · Node.js · Express.js · MongoDB · Socket.IO · WebRTC · JWT · Vercel · Render
+
+📫 ankitsingh110198@gmail.com · [LinkedIn](https://www.linkedin.com/in/ankit-singh-32371a167)
